@@ -1,0 +1,14 @@
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/bin/Debug/net8.0/TheLargestNumber
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/bin/Debug/net8.0/TheLargestNumber.deps.json
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/bin/Debug/net8.0/TheLargestNumber.runtimeconfig.json
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/bin/Debug/net8.0/TheLargestNumber.dll
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/bin/Debug/net8.0/TheLargestNumber.pdb
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/TheLargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/TheLargestNumber.AssemblyInfoInputs.cache
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/TheLargestNumber.AssemblyInfo.cs
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/TheLargestNumber.csproj.CoreCompileInputs.cache
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/TheLargestNumber.dll
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/refint/TheLargestNumber.dll
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/TheLargestNumber.pdb
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/TheLargestNumber.genruntimeconfig.cache
+/home/didyshaban/Documents/C#Applications/TheLargestNumber/obj/Debug/net8.0/ref/TheLargestNumber.dll
